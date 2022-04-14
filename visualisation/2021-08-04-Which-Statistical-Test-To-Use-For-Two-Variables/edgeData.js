@@ -1,7 +1,7 @@
 /**
  * Ensure ID begin with "e"
  */
-export const chartEdgeData = [
+[
   {
     id: "eStart",
     source: "start",
@@ -789,4 +789,4 @@ export const chartEdgeData = [
     type: "smoothstep",
     label: "Paired T-Test"
   }
-];
+]

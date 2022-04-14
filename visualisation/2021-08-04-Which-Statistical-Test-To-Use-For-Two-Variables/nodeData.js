@@ -4,7 +4,7 @@
  * x: 0 start from the left
  * Distance between each node: ~ 350 in x, ~ 300 in y
  */
-export const chartNodeData = [
+[
   {
     id: "start",
     type: "start",
@@ -845,4 +845,4 @@ export const chartNodeData = [
     },
     position: { x: 4835, y: 3645 }
   }
-];
+]

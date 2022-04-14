@@ -1,4 +1,4 @@
-export const textForHelp = [
+[
   {
     question: "Introduction",
     answer:
